@@ -1,0 +1,9 @@
+env/
+__pychache__
+
+*.env
+*.env.*
+env.*
+
+*node_modules/
+./front-kanastra/node_modules/
